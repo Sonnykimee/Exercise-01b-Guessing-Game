@@ -9,7 +9,7 @@ import sys, random
 assert sys.version_info >= (3,8), "This script requires at least Python 3.8"
 
 life = 3
-number = random.randrange(1, 20)
+number = random.randrange(1, 21)
 
 print("[Your Life: " + str(life) + "]")
 
