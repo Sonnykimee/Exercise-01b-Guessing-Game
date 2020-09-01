@@ -1,6 +1,8 @@
 '''
-Now you get 3 chances, the program will tell you whether your guess is low or high.
-But also the range of has extended.
+1. Rule Changes: Now you get 3 chances, the program will tell you whether your guess is low or high.
+   However, the range of possible numbers also has extended from 1~10 to 1~20.
+2. The program now has ability to check for wrong input such as non-integer input, or numbers that
+   are out of boundary.
 '''
 
 import sys, random
